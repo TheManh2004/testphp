@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>btlphp</title>
+    <link rel="stylesheet" href="/css/trangchu.css">
+    <script src="https://kit.fontawesome.com/ef5ee47b32.js" crossorigin="anonymous"></script>
+</head>
+<body>
+    <div class="navbar">
+        <a href="index.php"><img class="imagelogo" src="/image/logo_preview_rev_1.png"></img></a>
+        <div class="searchInputmenu">
+        <input type="text" id="searchInput" placeholder="What do you want to learn?">
+        <i class="fas fa-search"></i>
+        </div>
+        <div class="caption-menu">
+                <ul class="caption">
+                    <li>Trang chủ</li>
+                    <li>Ngành đào tạo</li>
+                    <li>Giảng viên</li>
+                    <li>Tìm hiểu thêm</li>
+                </ul>
+        </div>
+    </div>
+</body>
+</html>
